@@ -1,0 +1,11 @@
+-- Decompiled with Medal
+
+return table.freeze({
+    13,
+    26,
+    39,
+    65,
+    77,
+    91,
+    130
+})
